@@ -10,16 +10,15 @@ End result:
 ![IMG_20240726_212738_HDR.jpg](./IMG_20240726_212738_HDR.jpg)
 
 Pros: 
-– very lightweight dough
-– OK taste, resembling whole wheat bread
-– Very easy to cut, but doesn't crumble
+* very lightweight dough
+* OK taste, resembling whole wheat bread
+* Very easy to cut, but doesn't crumble
 
 Cons: 
-– Too sticky to handle properly
+* Too sticky to handle properly
 
 Next iteration: 
-– Less water = less sticky? 
-
+* Less water = less sticky? 
 
 Ingredients for flour blend:
 
